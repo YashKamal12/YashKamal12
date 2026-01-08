@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a freesher and i have done severial projects like car rental system , zomato, spotify, apple clone also i have done internship in tata steel and agamya eduventure i know java c html css js 
-
+I am a passionate Computer Science fresher with hands-on experience in building real-world web applications and working in professional environments. I have developed multiple projects including a Car Rental System, Zomato Clone, Spotify Clone, and an Apple Website Clone, which helped me strengthen my problem-solving and development skills. I have completed internships at Tata Steel and Agamya Eduventure, where I gained practical exposure to industry workflows and teamwork. I have a strong foundation in Java, C, HTML, CSS, and JavaScript, along with experience in React, Node.js, databases like MySQL and MongoDB, and basic cloud knowledge using AWS. I am eager to learn new technologies, contribute to impactful projects, and grow as a software developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-kamal-1832ba279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashkamalshaw832020@gmail.com) 
