@@ -160,17 +160,18 @@
 ---
 
 <details>
-<summary>⚙️ Animated Snake ko Activate Karne Ke Steps</summary>
+<summary>⚙️ Animated Snake ko Activate Karne Ke Steps (Fixed Version)</summary>
 
 <br>
 
 Snake animation apne aap enable nahi hoti — GitHub Action se turant on kar sakte ho:
 
-1. Apni `yashkamal12/yashkamal12` repo mein jao → **Settings** → **Actions** → **General** → "Read and write permissions" ON karo
-2. Repo mein `.github/workflows/snake.yml` naam ki file banao aur ye paste karo:
+1. Apni `yashkamal12/yashkamal12` repo mein jao → **Settings** → **Actions** → **General** → neeche scroll karo → **Workflow permissions** mein "Read and write permissions" select karo → **Save**
+2. Repo mein `.github/workflows/snake.yml` naam ki file banao (root mein nahi, `.github/workflows/` folder ke andar) aur ye paste karo:
 
 ```yaml
-name: Generate Snake
+name: Generate Snake Animation
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -185,19 +186,47 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake svg
+        uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: yashkamal12
           outputs: |
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          commit_message: "Update snake animation"
 ```
 
-3. Commit karo aur Action run hone do — kuch minute mein snake image apne aap generate ho jayegi aur README mein dikhne lagegi.
+3. Commit karo → repo ke **Actions** tab mein jao → workflow ko manually trigger karne ke liye **"Run workflow"** button dabao (`workflow_dispatch` isiliye add kiya hai)
+4. 1-2 minute wait karo, run **green tick ✅** ho jayega, aur `output` naam ki nayi branch ban jayegi apne aap
+5. Ab README mein niche wali image line refresh hoke dikhne lagegi
+
+**Agar phir bhi na dikhe, ye check karo:**
+- Action **red cross ❌** to nahi (Actions tab mein error log dekho)
+- `output` branch bani ya nahi (repo ke branch dropdown mein check karo)
+- Repo **public** honi chahiye (private repo mein snake image publicly load nahi hogi)
+- Image URL mein username sahi hai: `yashkamal12`
 
 </details>
+
+---
+
+### 📌 GitHub ke "Activity Overview" (Commits/Issues/PRs/Code review chart) ke baare mein
+
+Screenshot mein jo pie/radar chart (85% Commits, 13% PRs, 2% Code review) dikh raha hai — **ye GitHub ka apna native feature hai**, README ka part nahi. Ye directly `github.com/yashkamal12` par khud-ba-khud dikhta hai jab aapke paas kaafi contributions ho jaati hain.
+
+Isko README mein embed karna possible nahi hai (koi official badge/API nahi hai iske liye abhi tak). Ye sirf tab dikhega jab:
+- Aap regularly commits/PRs/issues karte raho apne ya kisi bhi public repo mein
+- Aapke pass enough activity ho jaaye (usually kuch weeks ke andar khud dikhne lagta hai)
+
+Iske bajaye README mein maine already **GitHub Stats card** (`github-readme-stats`) laga rakha hai jo commits, PRs, issues, stars sab dikhata hai — wahi closest alternative hai jo README mein kaam karta hai.
