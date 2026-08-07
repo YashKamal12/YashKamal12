@@ -21,13 +21,25 @@
 
 ---
 
-### 🚀 About Me
+### 💫 About Me
 
-- 🎓 Fresher, actively looking for opportunities as a **Software Developer / Full Stack Developer**
-- 💻 I love building end-to-end web applications — from frontend UI to backend APIs and databases
-- 🌱 Currently sharpening my skills in **Java, React, Node.js, and REST APIs**
-- 🤝 Open to collaborating on web development projects and open source
-- 📫 Reach me at **yashkamashaw832020@gmail.com**
+I am a passionate Computer Science fresher with hands-on experience in building real-world web applications and working in professional environments. I have developed multiple projects including a **Car Rental System**, **Zomato Clone**, **Spotify Clone**, and an **Apple Website Clone**, which helped me strengthen my problem-solving and development skills. I have completed internships at **Tata Steel** and **Agamya Eduventure**, where I gained practical exposure to industry workflows and teamwork. I have a strong foundation in Java, C, HTML, CSS, and JavaScript, along with experience in React, Node.js, databases like MySQL and MongoDB, and basic cloud knowledge using AWS. I am eager to learn new technologies, contribute to impactful projects, and grow as a software developer.
+
+---
+
+### 💼 Internships
+
+- 🏭 **Tata Steel** — Gained hands-on exposure to real industry workflows and professional engineering practices
+- 🚀 **Agamya Eduventure** — Worked in a collaborative team environment, contributing to live development tasks
+
+---
+
+### 🛠️ Projects
+
+- 🚗 **Car Rental System** — A full-stack application for browsing, booking, and managing car rentals
+- 🍔 **Zomato Clone** — Food delivery platform UI/UX clone with restaurant listings and cart flow
+- 🎵 **Spotify Clone** — Music streaming interface replicating Spotify's player and browsing experience
+- 🍎 **Apple Website Clone** — Pixel-perfect responsive clone of Apple's product landing page
 
 ---
 
@@ -35,8 +47,9 @@
 
 **Languages**
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
@@ -46,14 +59,17 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
 **Backend**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=nodemon&logoColor=BBDEAD" />
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 **Database**
@@ -221,12 +237,12 @@ jobs:
 
 ---
 
-### 📌 GitHub ke "Activity Overview" (Commits/Issues/PRs/Code review chart) ke baare mein
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YashKamal12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YashKamal12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKamal12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Screenshot mein jo pie/radar chart (85% Commits, 13% PRs, 2% Code review) dikh raha hai — **ye GitHub ka apna native feature hai**, README ka part nahi. Ye directly `github.com/yashkamal12` par khud-ba-khud dikhta hai jab aapke paas kaafi contributions ho jaati hain.
+---
+[![](https://visitcount.itsvg.in/api?id=YashKamal12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Isko README mein embed karna possible nahi hai (koi official badge/API nahi hai iske liye abhi tak). Ye sirf tab dikhega jab:
-- Aap regularly commits/PRs/issues karte raho apne ya kisi bhi public repo mein
-- Aapke pass enough activity ho jaaye (usually kuch weeks ke andar khud dikhne lagta hai)
-
-Iske bajaye README mein maine already **GitHub Stats card** (`github-readme-stats`) laga rakha hai jo commits, PRs, issues, stars sab dikhata hai — wahi closest alternative hai jo README mein kaam karta hai.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
