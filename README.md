@@ -128,29 +128,10 @@ I am a passionate Computer Science fresher with hands-on experience in building 
 
 ---
 
-### 📈 Contribution Graph (Yearly Activity)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkamal12&theme=tokyo-night&hide_border=true&bg_color=00000000&color=2E9EF7&line=9C27B0&point=FF6C37" />
-</p>
-
----
-
-### 🏆 Trophies & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashkamal12&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" />
-</p>
-
----
 
 ### 🐍 Contribution Snake (Animated)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashkamal12/yashkamal12/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> ⚙️ Ye snake animation automatically nahi banegi — iske liye ek chhota GitHub Action setup karna padega (steps neeche diye hain).
 
 ---
 
@@ -176,63 +157,10 @@ I am a passionate Computer Science fresher with hands-on experience in building 
 ---
 
 <details>
-<summary>⚙️ Animated Snake ko Activate Karne Ke Steps (Fixed Version)</summary>
+
 
 <br>
 
-Snake animation apne aap enable nahi hoti — GitHub Action se turant on kar sakte ho:
 
-1. Apni `yashkamal12/yashkamal12` repo mein jao → **Settings** → **Actions** → **General** → neeche scroll karo → **Workflow permissions** mein "Read and write permissions" select karo → **Save**
-2. Repo mein `.github/workflows/snake.yml` naam ki file banao (root mein nahi, `.github/workflows/` folder ke andar) aur ye paste karo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate snake svg
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: yashkamal12
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
-          commit_message: "Update snake animation"
-```
-
-3. Commit karo → repo ke **Actions** tab mein jao → workflow ko manually trigger karne ke liye **"Run workflow"** button dabao (`workflow_dispatch` isiliye add kiya hai)
-4. 1-2 minute wait karo, run **green tick ✅** ho jayega, aur `output` naam ki nayi branch ban jayegi apne aap
-5. Ab README mein niche wali image line refresh hoke dikhne lagegi
-
-**Agar phir bhi na dikhe, ye check karo:**
-- Action **red cross ❌** to nahi (Actions tab mein error log dekho)
-- `output` branch bani ya nahi (repo ke branch dropdown mein check karo)
-- Repo **public** honi chahiye (private repo mein snake image publicly load nahi hogi)
-- Image URL mein username sahi hai: `yashkamal12`
-
-</details>
 
 ---
