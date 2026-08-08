@@ -1,93 +1,78 @@
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,js,ts,html,css,react,nextjs,nodejs,express,dotnet,mongodb,mysql,aws,git,github,vscode,postman&theme=dark&perline=18" width="100%">
-</p>
-
-<h1 align="center">Hi there, I'm Yash Kamal Shaw! 👋</h1>
-
-<h3 align="center">Java &nbsp;•&nbsp; Full Stack &nbsp;•&nbsp; Fresher</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9C27B0&height=200&section=header&text=Yash%20Kamal%20Shaw&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Fresher&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-kamal-1832ba279" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yashkamashaw832020@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/dynamic/json?color=9C27B0&label=PROFILE%20VIEWS&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fyashkamal12-github-profile%2Fviews&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=yashkamal12&label=Profile%20Views&color=2E9EF7&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Open+to+Software+Developer+Roles;Full+Stack+%7C+Java+%7C+React+%7C+Node.js;Actively+Looking+for+Opportunities+2026" alt="Typing SVG" />
 </p>
 
 ---
 
-## About Me 🤝
+## 💫 About Me
 
-- 💻 Full Stack Developer with a focus on building real, working web apps
-- 🗨️ Ask me about **Java, C, HTML, CSS, JavaScript, React, Node.js**
-- ⚡ Fun fact: I enjoy turning a blank page into a working product from scratch
+I am a passionate Computer Science fresher with hands-on experience in building real-world web applications and working in professional environments. I have developed multiple projects including a **Car Rental System**, **Zomato Clone**, **Spotify Clone**, and an **Apple Website Clone**, which helped me strengthen my problem-solving and development skills. I have completed internships at **Tata Steel** and **Agamya Eduventure**, where I gained practical exposure to industry workflows and teamwork. I have a strong foundation in Java, C, HTML, CSS, and JavaScript, along with experience in React, Node.js, databases like MySQL and MongoDB, and basic cloud knowledge using AWS. I am eager to learn new technologies, contribute to impactful projects, and grow as a software developer.
+
+- 🎓 **Fresher** — actively applying for Software Developer / Full Stack Developer roles
+- 🏢 Completed internships at **Tata Steel** and **Agamya Eduventure**
+- 🚀 Built **4 full-stack projects** from scratch (see below)
+- 📫 Reach me at **yashkamashaw832020@gmail.com**
 
 ---
 
-## Tech Stack &nbsp;〈 〉
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="55" title="Java" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="55" title="C" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="55" title="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="55" title="TypeScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="55" title="HTML5" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="55" title="CSS3" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="55" title="React" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="55" title="Next.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55" title="Node.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="55" title="Express" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet" width="55" title="ASP.NET" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="55" title="MongoDB" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" title="MySQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" width="55" title="AWS" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git" width="55" title="Git" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="55" title="GitHub" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="55" title="VS Code" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="55" title="Postman" />
+  <img src="https://skillicons.dev/icons?i=java,c,js,ts,html,css,react,nextjs,nodejs,express,dotnet,mongodb,mysql,aws,git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-## Projects 🛠️
+## 💼 Internship Experience
 
-- 🚗 **Car Rental System** — full-stack booking & management app
-- 🍔 **Zomato Clone** — food delivery UI with cart & restaurant listings
-- 🎵 **Spotify Clone** — music streaming player interface
-- 🍎 **Apple Website Clone** — pixel-perfect responsive landing page
+**Tata Steel** — Intern
+Gained hands-on exposure to real industry engineering workflows and professional development practices.
 
----
-
-## Internships 💼
-
-- 🏭 **Tata Steel** — exposure to real industry engineering workflows
-- 🚀 **Agamya Eduventure** — collaborative team-based development work
+**Agamya Eduventure** — Intern
+Worked in a collaborative team environment, contributing to live development tasks and learning agile workflows.
 
 ---
 
-## My Stats 🔥
+## 🚀 Featured Projects
+
+| Project | Description | Tech Used |
+|---|---|---|
+| 🚗 **Car Rental System** | Full-stack app for browsing, booking, and managing car rentals | React, Node.js, Express, MongoDB |
+| 🍔 **Zomato Clone** | Food delivery platform UI with restaurant listings and cart flow | HTML, CSS, JavaScript |
+| 🎵 **Spotify Clone** | Music streaming interface replicating Spotify's player and browsing UX | HTML, CSS, JavaScript |
+| 🍎 **Apple Website Clone** | Pixel-perfect responsive clone of Apple's product landing page | HTML, CSS, JavaScript |
+
+> 📌 *Update each row with your live demo / repo link once pushed to GitHub — recruiters click these first.*
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yashkamal12&theme=radical&hide_border=true&background=0D1117&stroke=2E9EF7&ring=9C27B0&fire=FF6C37&currStreakLabel=2E9EF7&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=8B949E" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashkamal12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkamal12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashkamal12&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkamal12&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=yashkamal12&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:2E9EF7&height=120&section=footer" />
 </p>
-
-<h3 align="center">✨ Let's connect and build amazing things together! ✨</h3>
