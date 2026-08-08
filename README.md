@@ -44,9 +44,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashKamal12&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27" width="49%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKamal12&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27" width="40%" />
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
