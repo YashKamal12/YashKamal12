@@ -8,13 +8,10 @@
 
 ### 🚀 About Me
 
-- 💻 I love building web applications end to end — frontend to backend
-- ☕ Solid foundation in **Java** — built software applications using it
-- 🧩 Comfortable across both **web development** and **Java-based software development**
-- 🌱 Currently exploring **TypeScript**, **ASP.NET Core Web API**, and modern full-stack architecture
-- 🔭 Working with the **MERN stack** and **.NET ecosystem**
+- 💻 Full Stack Web Developer — MERN stack & .NET ecosystem
+- ☕ Also build software applications using **Java**
+- 🌱 Exploring **TypeScript** and **ASP.NET Core Web API**
 - 📫 Reach me on LinkedIn or Instagram (links below)
-- ⚡ Fun fact: I enjoy turning ideas into working products
 
 ---
 
