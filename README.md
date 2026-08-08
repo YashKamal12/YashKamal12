@@ -48,7 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKamal12&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27" width="40%" />
 </div>
 
-📈 Contribution Graph (Yearly Activity)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+📈 Contribution Graph 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkamal12&theme=tokyo-night&hide_border=true&bg_color=00000000&color=2E9EF7&line=9C27B0&point=FF6C37" /> </p>
 
 <!-- Wavy animation -->
