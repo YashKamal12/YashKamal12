@@ -1,60 +1,58 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=200&section=header&text=Yash%20Kamal%20Shaw&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Banner" width="100%">
+  
+  # Hi there, I'm Yash Kamal Shaw! 👋
+  
+  ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&width=435&lines=Full+Stack+Web+Developer;Java+%26+.NET+Enthusiast;Building+Robust+Solutions" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+%2B+.NET+Enthusiast;Always+Learning+New+Tech;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<!-- Wavy divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/yash-kamal-1832ba279/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/yash_kamal_12">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=YashKamal12&style=for-the-badge&color=6A5ACD" alt="Profile views" />
+</div>
 
-### 🚀 About Me
+## About Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30">
 
-- 💻 Full Stack Web Developer 
+<img align="right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400">
+
+- 💻 Full Stack Web Developer — MERN stack & .NET ecosystem
 - ☕ Also build software applications using **Java**
 - 🌱 Exploring **TypeScript** and **ASP.NET Core Web API**
-- 📫 Reach me on LinkedIn or Instagram (links below)
+- ⚡ Fun fact: I love turning complex problems into elegant solutions!
 
----
+## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
-### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,express,mongodb,dotnet,mssql,git&perline=7" />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,express,mongodb,dotnet,mssql&theme=dark" />
-</p>
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+## My Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30">
 
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashKamal12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27" width="49%" alt="Yash's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashKamal12&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27" width="49%" alt="Yash's Streak" />
+</div>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YashKamal12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKamal12&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKamal12&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27" width="40%" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashKamal12&theme=tokyonight&hide_border=true" />
-</p>
+<!-- Wavy animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
 
----
-
-### 🐍 Contribution Graph 
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkamal12&theme=tokyo-night&hide_border=true&bg_color=00000000&color=2E9EF7&line=9C27B0&point=FF6C37" /> </p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yash-kamal-1832ba279/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yash_kamal_12" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashKamal12&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
+<div align="center">
+  <h3>✨ Let's connect and build amazing things together! ✨</h3>
+</div>
