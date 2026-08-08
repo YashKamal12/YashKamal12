@@ -21,7 +21,7 @@
 
 ## About Me <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30">
 
-<img align="right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400">
 
 - 💻 Full Stack Web Developer — MERN stack & .NET ecosystem
 - ☕ Also build software applications using **Java**
@@ -31,7 +31,7 @@
 ## Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,express,mongodb,dotnet,mssql,git&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nodejs,express,mongodb,dotnet,mssql,git&perline=6" />
 </div>
 
 <!-- Animated divider -->
@@ -40,12 +40,18 @@
 ## My Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashKamal12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27" width="49%" alt="Yash's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashKamal12&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27" width="49%" alt="Yash's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashKamal12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashKamal12&theme=tokyonight&hide_border=true&border_radius=10&background=1a1b27" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKamal12&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashKamal12&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=1a1b27" width="40%" />
+</div>
+
+## Contribution Graph <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d5-4a3e-a8ef-1c2d4b53ba33.png" width="30">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YashKamal12/YashKamal12/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 <!-- Wavy animation -->
