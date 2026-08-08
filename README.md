@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 💻 Full Stack Web Developer — MERN stack & .NET ecosystem
+- 💻 Full Stack Web Developer 
 - ☕ Also build software applications using **Java**
 - 🌱 Exploring **TypeScript** and **ASP.NET Core Web API**
 - 📫 Reach me on LinkedIn or Instagram (links below)
@@ -36,13 +36,9 @@
 
 ---
 
-### 🐍 Contribution Graph (Animated)
+### 🐍 Contribution Graph 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YashKamal12/YashKamal12/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> ℹ️ Ye animated snake tabhi dikhegi jab isse generate karne wala GitHub Action set ho. Neeche steps diye hain.
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkamal12&theme=tokyo-night&hide_border=true&bg_color=00000000&color=2E9EF7&line=9C27B0&point=FF6C37" /> </p>
 
 ---
 
