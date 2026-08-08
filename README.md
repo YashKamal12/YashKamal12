@@ -19,6 +19,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js+%7C+MongoDB;Building+Real-World+Web+Applications;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450">
+</p>
+
 ---
 
 ### 💫 About Me
@@ -45,93 +49,44 @@ I am a passionate Computer Science fresher with hands-on experience in building 
 
 ### 🛠️ Tech Stack
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodemon-323330?style=for-the-badge&logo=nodemon&logoColor=BBDEAD" />
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-
-**Database**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-**Tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats Overview
-
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yashkamal12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkamal12&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-> Total commits, stars, PRs, issues aur contribution rank yahan auto-update hote rehte hain — live data seedha aapke GitHub account se.
-
----
-
-### 🔥 Current Streak, Longest Streak & Total Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkamal12&theme=tokyonight&hide_border=true&background=00000000&stroke=2E9EF7&ring=9C27B0&fire=FF6C37&currStreakLabel=2E9EF7" />
-</p>
-
----
-
-### 🔀 Pull Requests, Issues & Code Reviews
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashkamal12&show_icons=true&hide=stars,commits&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,react,nextjs,nodejs,express,dotnet,mysql,mongodb,aws,git,github,vscode,postman&theme=dark" />
 </p>
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?color=2E9EF7&label=Pull%20Requests&query=%24.data.user.pullRequests.totalCount&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fyashkamal12&style=for-the-badge&logo=github" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?color=9C27B0&label=Issues&query=%24.data.user.issues.totalCount&url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fyashkamal12&style=for-the-badge&logo=github" />
-    </td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=c" width="40"/><br><sub><b>C</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="40"/><br><sub><b>Java</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="40"/><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="40"/><br><sub><b>HTML5</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="40"/><br><sub><b>CSS3</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="40"/><br><sub><b>React</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br><sub><b>Next.js</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="40"/><br><sub><b>Express</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet" width="40"/><br><sub><b>ASP.NET</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br><sub><b>AWS</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br><sub><b>MySQL</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="40"/><br><sub><b>Git</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="40"/><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br><sub><b>Postman</b></sub></td>
   </tr>
 </table>
 
-> Note: Kuch niche wale badges (jaise exact PR/Issue count) GitHub ki rate-limits ki wajah se kabhi-kabhi load hone mein time le sakte hain — ye normal hai, refresh karne par sahi ho jayega.
-
 ---
 
+### 📈 Contribution Graph (Yearly Activity)
 
-
-### 🐍 Contribution Snake (Animated)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkamal12&theme=tokyo-night&hide_border=true&bg_color=00000000&color=2E9EF7&line=9C27B0&point=FF6C37" />
+</p>
 
 ---
 
@@ -153,14 +108,5 @@ I am a passionate Computer Science fresher with hands-on experience in building 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9C27B0,100:2E9EF7&height=120&section=footer" />
 </p>
-
----
-
-<details>
-
-
-<br>
-
-
 
 ---
